@@ -1,0 +1,11 @@
+1. Visit the official account creation page: www.github.com
+
+2. Pick a username, enter your email address, and choose a password.
+
+3. Would like to receiving updates and announcements by checking/unchecking the Email preferences checkbox....press y
+
+4. Verify you're not a robot by solving the Captcha puzzle.
+
+5. Click Create account.
+
+refer youtube video for further details......https://www.youtube.com/watch?v=QUtk-Uuq9nE
